@@ -1,1 +1,2 @@
 # Drawing-Shapes-with-Arduino
+In this repository can be found the implementation of a "robotic arm" that can draw a house. It uses 2 NEMA17 stepper motors for the 2 axis (OX and OY), one servo motor for the grip and a bunch of boltes and pullyes to tight up the arm. It works on Arduino code which sends how many steps the motors should do in each direction so we can have the disered output. To read more in detail and see the final result check out the documentation and implementation :)
